@@ -7,12 +7,12 @@
       <!-- Latest compiled and minified CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
             integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-     
- 
+
+
  </head>
 
   <body>
-   
+
  <div class='container'>
     <div class="page-header">
       <h1>VISUAL ANALYTICS
@@ -23,7 +23,7 @@
         <h1 ALIGN=center><b>Salidas de Colombianos desde el territorio nacional.</b></h1>
         <p>Muestra el consolidado de salidas de colombianos desde el territorio nacional a partir del 2012 al 2018, discriminado por país destino y género</p>
         <p>Información extraída del portal Datos Abierto de Colombia en el siguiente enlace: https://www.datos.gov.co/Estad-sticas-Nacionales/Salidas-de-colombianos-desde-el-territorio-naciona/efw5-jiej</p>
-         <img src="viaje2.JPG" alt="." width="750" height="200" > 
+         <img src="viaje2.jpg" alt="." width="750" height="200" >
 
         <div id="tooltip" height="50"></div>
         <svg width="900" height="80"></svg>
@@ -37,7 +37,7 @@
         <p> - También cuenta con una opción de selección, la cual nos permite clasificarlos por género (Femenino / Masculino) o totalizado.</p>
         <p> - El tamaño del circulo depende la cantidad de personas. A continuación, una escala del color:</p>
 
-          <img src="tabulacion.JPG" alt=".."> 
+          <img src="tabulacion.JPG" alt="..">
       </div>
   </div>
   <h1 ALIGN=center><b>Paises más atractivos para los Colombianos 2018.</b></h1>
@@ -78,17 +78,17 @@
           let delay = 10;
 
           d3.csv('https://raw.githubusercontent.com/63anp3ca/HomeWork3/master/2018-2.csv', function(d) {
-              
+
               if (!isNaN(parseFloat(d[property])) && isFinite(d[property])){
                 d[property] = +d[property];
-                
+
               } else {
                 throw 'Property value isn\'t a number or doesn\'t exist';
                  console.log("Property value isn\'t a number or doesn\'t exist" );
               }
-              console.log(d);  
+              console.log(d);
               return d;
-              
+
 
           }, function(error, objects) {
 
@@ -159,11 +159,11 @@
       bubbleChart('TOTAL');
     </script>
     <footer align="center" style="font-size: 12px;">
-            Gerardo Antonio Perez Clavijo<br> 
-            Código: 20151406<br> 
-            Correo: ga.perez@uniandes.edu.co<br> 
-            Universidad de los Andes<br> 
-            Maestría en Ingeniería de la Información            
+            Gerardo Antonio Perez Clavijo<br>
+            Código: 20151406<br>
+            Correo: ga.perez@uniandes.edu.co<br>
+            Universidad de los Andes<br>
+            Maestría en Ingeniería de la Información
   </footer>
   </body>
 </html>
