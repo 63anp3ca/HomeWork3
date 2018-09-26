@@ -1,0 +1,345 @@
+[
+ {
+   "ANNO": 2018,
+   "PAIS": "Belice",
+   "FEMENINO": 104,
+   "MASCULINO": 88,
+   "TOTAL": 192
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Panamá",
+   "FEMENINO": 100,
+   "MASCULINO": 98,
+   "TOTAL": 198
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "República de Irlanda",
+   "FEMENINO": 117,
+   "MASCULINO": 93,
+   "TOTAL": 210
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Polonia",
+   "FEMENINO": 78,
+   "MASCULINO": 135,
+   "TOTAL": 213
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "España",
+   "FEMENINO": 122,
+   "MASCULINO": 91,
+   "TOTAL": 213
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "México",
+   "FEMENINO": 115,
+   "MASCULINO": 101,
+   "TOTAL": 216
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Singapur",
+   "FEMENINO": 100,
+   "MASCULINO": 125,
+   "TOTAL": 225
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Líbano",
+   "FEMENINO": 116,
+   "MASCULINO": 119,
+   "TOTAL": 235
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "República de Corea",
+   "FEMENINO": 116,
+   "MASCULINO": 122,
+   "TOTAL": 238
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Egipto",
+   "FEMENINO": 123,
+   "MASCULINO": 140,
+   "TOTAL": 263
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Malta",
+   "FEMENINO": 171,
+   "MASCULINO": 103,
+   "TOTAL": 274
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Arabia Saudita",
+   "FEMENINO": 47,
+   "MASCULINO": 232,
+   "TOTAL": 279
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Tailandia",
+   "FEMENINO": 169,
+   "MASCULINO": 131,
+   "TOTAL": 300
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Grecia",
+   "FEMENINO": 177,
+   "MASCULINO": 140,
+   "TOTAL": 317
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Dinamarca",
+   "FEMENINO": 190,
+   "MASCULINO": 175,
+   "TOTAL": 365
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Noruega",
+   "FEMENINO": 233,
+   "MASCULINO": 143,
+   "TOTAL": 376
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Hong Kong",
+   "FEMENINO": 157,
+   "MASCULINO": 241,
+   "TOTAL": 398
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Federación de Rusia",
+   "FEMENINO": 143,
+   "MASCULINO": 281,
+   "TOTAL": 424
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "India",
+   "FEMENINO": 221,
+   "MASCULINO": 223,
+   "TOTAL": 444
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Trinidad y Tobago",
+   "FEMENINO": 177,
+   "MASCULINO": 285,
+   "TOTAL": 462
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Nueva Zelanda",
+   "FEMENINO": 297,
+   "MASCULINO": 224,
+   "TOTAL": 521
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Bahamas",
+   "FEMENINO": 278,
+   "MASCULINO": 326,
+   "TOTAL": 604
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Austria",
+   "FEMENINO": 326,
+   "MASCULINO": 293,
+   "TOTAL": 619
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Estados Unidos de América",
+   "FEMENINO": 356,
+   "MASCULINO": 296,
+   "TOTAL": 652
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Francia",
+   "FEMENINO": 11,
+   "MASCULINO": 826,
+   "TOTAL": 837
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Japón",
+   "FEMENINO": 687,
+   "MASCULINO": 636,
+   "TOTAL": 1323
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Nicaragua",
+   "FEMENINO": 429,
+   "MASCULINO": 976,
+   "TOTAL": 1405
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Suecia",
+   "FEMENINO": 818,
+   "MASCULINO": 664,
+   "TOTAL": 1482
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Israel",
+   "FEMENINO": 906,
+   "MASCULINO": 615,
+   "TOTAL": 1521
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Bélgica",
+   "FEMENINO": 910,
+   "MASCULINO": 647,
+   "TOTAL": 1557
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Cuba",
+   "FEMENINO": 887,
+   "MASCULINO": 822,
+   "TOTAL": 1709
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Alemania",
+   "FEMENINO": 962,
+   "MASCULINO": 852,
+   "TOTAL": 1814
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Portugal",
+   "FEMENINO": 880,
+   "MASCULINO": 1001,
+   "TOTAL": 1881
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Emiratos Árabes",
+   "FEMENINO": 671,
+   "MASCULINO": 1541,
+   "TOTAL": 2212
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Honduras",
+   "FEMENINO": 870,
+   "MASCULINO": 1582,
+   "TOTAL": 2452
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Jamaica",
+   "FEMENINO": 1470,
+   "MASCULINO": 1188,
+   "TOTAL": 2658
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Paraguay",
+   "FEMENINO": 914,
+   "MASCULINO": 1953,
+   "TOTAL": 2867
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Países Bajos",
+   "FEMENINO": 8,
+   "MASCULINO": 2920,
+   "TOTAL": 2928
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Curazao",
+   "FEMENINO": 1795,
+   "MASCULINO": 1584,
+   "TOTAL": 3379
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "El Salvador",
+   "FEMENINO": 3512,
+   "MASCULINO": 6,
+   "TOTAL": 3518
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "China",
+   "FEMENINO": 1365,
+   "MASCULINO": 2277,
+   "TOTAL": 3642
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Suiza",
+   "FEMENINO": 2357,
+   "MASCULINO": 1466,
+   "TOTAL": 3823
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Australia",
+   "FEMENINO": 1951,
+   "MASCULINO": 2333,
+   "TOTAL": 4284
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Uruguay",
+   "FEMENINO": 2045,
+   "MASCULINO": 2411,
+   "TOTAL": 4456
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Turquía",
+   "FEMENINO": 2014,
+   "MASCULINO": 2698,
+   "TOTAL": 4712
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Italia",
+   "FEMENINO": 2646,
+   "MASCULINO": 3865,
+   "TOTAL": 6511
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Puerto Rico/Territorio de Estados Unidos",
+   "FEMENINO": 3579,
+   "MASCULINO": 3122,
+   "TOTAL": 6701
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Bolivia",
+   "FEMENINO": 2630,
+   "MASCULINO": 4317,
+   "TOTAL": 6947
+ },
+ {
+   "ANNO": 2018,
+   "PAIS": "Guatemala",
+   "FEMENINO": 4511,
+   "MASCULINO": 3585,
+   "TOTAL": 8096
+ }
+]
